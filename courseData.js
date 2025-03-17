@@ -115,5 +115,76 @@ const courseData = [
       { number: 80, url: "https://www.youtube.com/watch?v=KGfkNOWYyFE" },
       { number: 81, url: "https://www.youtube.com/watch?v=Onc8gqkVfmk" }
     ]
+  },
+  {
+    week: "Week 8",
+    lectures: [
+      { number: 82, url: "https://www.youtube.com/watch?v=RTxrTMMJNmU" },
+      { number: 83, url: "https://www.youtube.com/watch?v=1ADDeptlrPg" },
+      { number: 84, url: "https://www.youtube.com/watch?v=Z9OwrLIL7l0" },
+      { number: 85, url: "https://www.youtube.com/watch?v=EfTNh1Nfwus" },
+      { number: 86, url: "https://www.youtube.com/watch?v=jqWFb8g_fUU" },
+      { number: 87, url: "https://www.youtube.com/watch?v=bNAR1oSIf_w" },
+      { number: 88, url: "https://www.youtube.com/watch?v=vQm88nEzSmg" },
+      { number: 89, url: "https://www.youtube.com/watch?v=ZmP_PlauJPQ" },
+      { number: 90, url: "https://www.youtube.com/watch?v=iPb-iQ6f22Q" },
+      { number: 91, url: "https://www.youtube.com/watch?v=3pSi_dpU32A" },
+      { number: 92, url: "https://www.youtube.com/watch?v=zakh18fG6Ys" }
+    ]
+  },
+  {
+    week: "Week 9",
+    lectures: [
+      { number: 93, url: "https://www.youtube.com/watch?v=BmUmAkjAGas" },
+      { number: 94, url: "https://www.youtube.com/watch?v=0jms862s2lo" },
+      { number: 95, url: "https://www.youtube.com/watch?v=yKEhz6l318I" },
+      { number: 96, url: "https://www.youtube.com/watch?v=hxEZ51Eeres" },
+      { number: 97, url: "https://www.youtube.com/watch?v=onGgQ2k36XA" },
+      { number: 98, url: "https://www.youtube.com/watch?v=VETMtN_keFU" },
+      { number: 99, url: "https://www.youtube.com/watch?v=--2QlZzy4i8" },
+      { number: 100, url: "https://www.youtube.com/watch?v=eC6znivDb2o" }
+    ]
+  },
+  {
+    week: "Week 10",
+    lectures: [
+      { number: 101, url: "https://www.youtube.com/watch?v=QW3SBonv7qQ" },
+      { number: 102, url: "https://www.youtube.com/watch?v=h4u9NB3tS4s" },
+      { number: 103, url: "https://www.youtube.com/watch?v=zgQ8kgcUr68" },
+      { number: 104, url: "https://www.youtube.com/watch?v=9805X-mKBCU" },
+      { number: 105, url: "https://www.youtube.com/watch?v=WJZ6nH3pscA" },
+      { number: 106, url: "https://www.youtube.com/watch?v=CO41NqBbFz8" },
+      { number: 107, url: "https://www.youtube.com/watch?v=rZG29EDcmQQ" },
+      { number: 108, url: "https://www.youtube.com/watch?v=uxoaRw8waLg" }
+    ]
+  },
+  {
+    week: "Week 11",
+    lectures: [
+      { number: 109, url: "https://www.youtube.com/watch?v=sFqpGPtOuKg" },
+      { number: 110, url: "https://www.youtube.com/watch?v=-c2XDBz5a_c" },
+      { number: 111, url: "https://www.youtube.com/watch?v=qcf3IqHeX4I" },
+      { number: 112, url: "https://www.youtube.com/watch?v=w3uKNP1mGTs" },
+      { number: 113, url: "https://www.youtube.com/watch?v=5pIsxDd-f6I" },
+      { number: 114, url: "https://www.youtube.com/watch?v=M2Ihu4WIOGs" },
+      { number: 115, url: "https://www.youtube.com/watch?v=lFiQVRT6TZI" },
+      { number: 116, url: "https://www.youtube.com/watch?v=9Ci5-S6o60M" },
+      { number: 117, url: "https://www.youtube.com/watch?v=uwLjH0gIJAA" },
+      { number: 118, url: "https://www.youtube.com/watch?v=Che7cj--Gog" },
+      { number: 119, url: "https://www.youtube.com/watch?v=I2S3Gi-MSAc" }
+    ]
+  },
+  {
+    week: "Week 12",
+    lectures: [
+      { number: 120, url: "https://www.youtube.com/watch?v=_oMdp8kkdqY" },
+      { number: 121, url: "https://www.youtube.com/watch?v=cNbNSMg7-Yc" },
+      { number: 122, url: "https://www.youtube.com/watch?v=aGT3RgOAIk4" },
+      { number: 123, url: "https://www.youtube.com/watch?v=WKdLRueKFf8" },
+      { number: 124, url: "https://www.youtube.com/watch?v=FZq0Wpa1pwY" },
+      { number: 125, url: "https://www.youtube.com/watch?v=NGSiZAnC43M" },
+      { number: 126, url: "https://www.youtube.com/watch?v=JT6ZsX90ugk" },
+      { number: 127, url: "https://www.youtube.com/watch?v=3J877O7Cano" }
+    ]
   }
 ];
