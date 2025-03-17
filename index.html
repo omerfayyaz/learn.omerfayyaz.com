@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Course Platform Landing Page</title>
+  <!-- Bootstrap CSS (v5) -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    /* Custom Styles */
+    header {
+      background-color: #4CAF50;
+      color: #fff;
+      padding: 2rem 1rem;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    .card-img-top {
+      height: 180px;
+      object-fit: cover;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="text-center">
+    <h1>Free Courses found on the internet</h1>
+  </header>
+
+  <!-- Main Content Container -->
+  <div class="container my-5">
+    <h2 class="text-center mb-4">Courses</h2>
+    <!-- Responsive Grid: 1 column on extra small screens, 2 on medium, 3 on large -->
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      <!-- Card 1 -->
+      <div class="col">
+        <div class="card h-100 shadow-sm">
+          <!-- <img src="https://via.placeholder.com/400x180.png?text=Course+1" class="card-img-top" alt="Course 1"> -->
+          <div class="card-body">
+            <h5 class="card-title">WordPress Development</h5>
+            <p class="card-text">Learn WordPress to build modern and responsive websites from scratch.</p>
+          </div>
+          <div class="card-footer bg-transparent border-0">
+
+            <a href="wp-course.html" class="btn btn-success">View Course</a>
+          </div>
+        </div>
+      </div>
+      <!-- Add more cards as needed -->
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="text-center">
+    <p>&copy; 2025 Course Platform. All rights reserved.</p>
+  </footer>
+
+  <!-- Bootstrap Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
