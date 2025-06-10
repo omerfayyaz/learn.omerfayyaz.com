@@ -1,5 +1,5 @@
-// This file contains the courseData array for code simplicity.
-const courseData = [
+// This file contains the wpCourseData array for code simplicity.
+const wpCourseData = [
   {
     week: "Week 1",
     lectures: [
